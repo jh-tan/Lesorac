@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608548739320",
+    "project_id": "mad-project-lesorac",
+    "storage_bucket": "mad-project-lesorac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608548739320:android:6b36be454769820f40030d",
+        "android_client_info": {
+          "package_name": "com.example.lesorac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608548739320-n457stdl1mdj93cspg80prn8hss6ccm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPIuIsuIx__D16EXprxNAZRnOIaPcMb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608548739320-n457stdl1mdj93cspg80prn8hss6ccm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
